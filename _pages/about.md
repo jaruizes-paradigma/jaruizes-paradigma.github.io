@@ -2,29 +2,54 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/60.jpg'
 ---
 
-Hi, my name is Robert Wilson. Sin tantum modo ad indicia veteris memoriae virtute cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies saepius, qui semel fuit? Ampulla enim sit necne sit, quis non iure optimo irrideatur, si laboret? Ego vero volo in virtute vim esse quam maximam. Serpere genere anguiculos, nare anaticulas, evolare merulas, cornibus uti videmus boves, nepas aculeis. Conferam tecum, quam cuique verso rem subicias; Si longus, levis. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari disseretur inter.
+## Who am I?
+Hello, my name is José Alberto Ruiz Casarrubios and this is my blog about Software Development. I'm working building software, professionally, since 2004 but 
+I really was building software since I was a kid, when my father bought a personal computer for him (a wonderful INVES 640 X Turbo) and there was a promotion giving 
+an Inves Spectrum for the buying.
 
-![Time to think]({{site.baseurl}}/images/501.jpg)
-*Minimalism / [Unsplash](https://unsplash.com/)*
+![Inves Spectrum]({{site.baseurl}}/images/site/Inves_Spectrum.jpg)
+*[Inves Spectrum](https://es.wikipedia.org/wiki/Investr%C3%B3nica_Inves_Spectrum_%2B)*
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit? Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. An, partus ancillae sitne in fructu disseretur sine reprehensione iracundia.
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/900.jpg">
-    <img src="/images/901.jpg">
-    <img src="/images/902.jpg">
-  </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
+During my career, I’ve participated in many projects, with different complexity and size, and I think I've assumed all the possible roles, from developer to management. 
+I like so much technical part and I consider myself a software engineer, but I like also methodologies.
 
-In omni enim arte vel studio vel quavis scientia vel in ipsa virtute optimum quidque rarissimum est. Quod est, ut dixi, habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima. Quodsi ipsam honestatem undique pertectam atque absolutam. Tecum optime, deinde etiam cum mediocri amico. Neque enim disputari sine pertectam reprehensione nec cum iracundia aut pertinacia recte disputari potest. An, partus ancillae sitne in fructu habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles. Servari enim iustitia nisi a forti viro, nisi a sapiente nona civitatis.
+<br/>
 
-<p><iframe src="https://www.youtube.com/embed/QyQ85DEVpbc" frameborder="0" allowfullscreen></iframe></p>
+## What are you going to find in this blog?
+In this blog I would like to talk about Software, from languages and frameworks to architecture and methodologies and application modernization. I'm not a specialist about nothing but I've worked in
+many areas and using multiple languages, tools and methodologies. I'm an "all-terrain profile". 
 
-Ego quoque, inquit, didicerim libentius si quid attuleris, quam te reprehenderim. Iam insipientes alios ita esse, ut nullo modo ad sapientiam possent pervenire, alios, qui possent, si id egissent, sapientiam consequi. Id quaeris, inquam, in quo, utrum respondero, verses te huc atque illuc necesse est. Sed quid ages tandem, si utilitas ab amicitia, ut fit saepe, defecerit? Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit? Quae quidem sapientes sequuntur duce natura tamquam videntes. Quod enim fitus dissolutum sit, id esse sine sensu, utilitas quod autem sine sensu sit, id nihil ad nos pertinere omnino. Idne consensisse de Calatino plurimas gentis arbitramur, primarium populi fuisse, quod praestantissimus fuisset in conficiendis voluptatibus? Utram tandem linguam nescio.
+>I just know that the more work in this sector, the less I know, and the more I want to know
+
+I was writing on my blog for many years, and I think this is the third big update I do. In this update I want to add as content the technical books and references I recommend you. 
+
+
+
+<br/>
+
+## Where can you find me?
+
+You can find me in social networks:
+
+- [LinkedIn](https://www.linkedin.com/in/jaruizcasarrubios/?locale=en_US)
+- [Twitter](https://twitter.com/jalb80)
+
+
+
+### Talks
+
+I also participate in public events like **Commit Conf 2018, "Una visión moderna de las arquitecturas"**:
+
+<p><iframe src="https://www.youtube.com/embed/MtqI6Yp4nIY" frameborder="0" allowfullscreen></iframe></p>
+
+or **OpenExpo 2021: "CDC como llave al real-time"**
+
+<p><iframe src="https://www.youtube.com/embed/7OQSG3ibvfo?t=152m42s" frameborder="0" allowfullscreen></iframe></p>
+
+
 
 <hr>
+
