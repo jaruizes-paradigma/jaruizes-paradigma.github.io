@@ -103,13 +103,14 @@
     .nav__item {
       display: inline-block;
       margin-right: 40px;
+      font-size: 26px;
       &:last-child {
         margin-right: 0;
       }
   
       .nav__link {
         position: relative;
-        font-size: 12px;
+        font-size: 26px;
         font-weight: 700;
         letter-spacing: 1px;
         text-transform: uppercase;
@@ -160,7 +161,7 @@
 .nav-buttons {
   display: flex;
   align-items: center;
-  font-size: 24px;
+  font-size: 28px;
   color: $text-color;
 
   .search-button {
@@ -182,7 +183,7 @@
     span {
       display: block;
       margin-left: 8px;
-      font-size: 12px;
+      font-size: 28px;
       font-weight: 700;
       letter-spacing: 1px;
       text-transform: uppercase;

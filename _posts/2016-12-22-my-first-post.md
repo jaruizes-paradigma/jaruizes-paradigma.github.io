@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  My first post
-description: Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies...
 date:   2018-04-21 15:01:35 +0300
-image:  '/images/20.jpg'
-tags:   [lifestyle, rest, nature]
+image:  '/images/10.jpg'
+category : API
+tags:   [lifestyle]
 ---
 
 

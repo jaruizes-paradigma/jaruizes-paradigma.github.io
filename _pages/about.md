@@ -1,11 +1,12 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
+image: '/images/site/IMG20210710113453.jpg'
 ---
 
 ## Who am I?
-Hello, my name is José Alberto Ruiz Casarrubios and this is my blog about Software Development. I'm working building software, professionally, since 2004 but 
+Hello, this is my blog about Software Development. I'm working building software, professionally, since 2004 but 
 I really was building software since I was a kid, when my father bought a personal computer for him (a wonderful INVES 640 X Turbo) and there was a promotion giving 
 an Inves Spectrum for the buying.
 
