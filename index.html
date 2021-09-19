@@ -26,17 +26,8 @@ layout: default
 </section>
 {% endif %}
 <!-- begin hero -->
-<section class="footer-widgets">
-  <div class="container">
-    <div class="row">
-      {% include footer-widgets/widget-tag-cloud.html %}
-    </div>
-  </div>
-</section>
 
 {% include featured-posts.html %}
-
-
 
 <div class="container">
   <div class="row">
@@ -44,9 +35,9 @@ layout: default
       <div class="container__inner">
         <div class="row grid">
           {% if site.posts.size > 0 %}
-            {% for post in paginator.posts %}
-              {% include article-content.html %}
-            {% endfor %}
+          {% for post in paginator.posts %}
+          {% include article-content.html %}
+          {% endfor %}
           {% endif %}
         </div>
       </div>
