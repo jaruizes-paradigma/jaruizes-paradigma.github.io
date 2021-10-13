@@ -1,8 +1,8 @@
 #-------------------------------
 # General Site Settings
-title: jaruiz.io
-logo: # You can add own logo. For example '/images/logo.png'.
-description: Jose Alberto Ruiz – Software engineer
+title: Home
+logo:
+description: Jose Alberto Ruiz – Hands-on Solutions Architect
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "https://jaruiz.io" # The base hostname & protocol for your site, e.g. http://example.com
 
@@ -24,11 +24,8 @@ hero:
 #-------------------------------
 # Contact Settings
 contact:
-  email: f/xknkyrzv
-  description: Norlin comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
-
-# NOTE
-# Norlin theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+  email:
+  description:
 
 
 #-------------------------------
@@ -48,7 +45,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example anvodstu
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1.
+google-analytics: UA-112622712-1
 
 
 #-------------------------------

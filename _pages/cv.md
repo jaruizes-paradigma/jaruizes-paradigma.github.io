@@ -13,7 +13,6 @@ permalink: /cv/
 
 {% include experiences.html %}
 
-{% include projects.html %}
 
 {% include publications.html %}
 
