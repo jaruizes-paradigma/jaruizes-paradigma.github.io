@@ -15,5 +15,3 @@ permalink: /cv/
 
 
 {% include publications.html %}
-
-{% include skills.html %}
