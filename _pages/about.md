@@ -38,7 +38,8 @@ You can find me in social networks:
 - [LinkedIn](https://www.linkedin.com/in/jaruizcasarrubios/?locale=en_US)
 - [Twitter](https://twitter.com/jalb80)
 
-
+<br />
+<br />
 
 ### Talks
 
@@ -46,11 +47,18 @@ I also participate in public events like **Commit Conf 2018, "Una visión modern
 
 <p><iframe src="https://www.youtube.com/embed/MtqI6Yp4nIY" frameborder="0" allowfullscreen></iframe></p>
 
-or **OpenExpo 2021: "CDC como llave al real-time"**
+<br />
+**OpenExpo 2021: "CDC como llave al real-time"**
 
 <p><iframe src="https://www.youtube.com/embed/7OQSG3ibvfo?t=152m42s" frameborder="0" allowfullscreen></iframe></p>
 
+<br />
+**Paradigma Digital: CDC & Debezium Webinar**
+<p><iframe src="https://www.youtube.com/embed/y2A4x5ZF7dY" frameborder="0" allowfullscreen></iframe></p>
 
+<br />
+**Paradigma Digital: CDC & Debezium Podcast**
+<p><iframe src="https://www.youtube.com/embed/eXYXsyNGqRE" frameborder="0" allowfullscreen></iframe></p>
 
 <hr>
 
